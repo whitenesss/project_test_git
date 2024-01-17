@@ -1,2 +1,2 @@
 def mut():
-    pass
+    return True
