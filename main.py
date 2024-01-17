@@ -1,2 +1,2 @@
-def mut ():
+def mut():
     pass
